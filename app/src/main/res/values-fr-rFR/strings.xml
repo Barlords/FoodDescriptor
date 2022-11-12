@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon comparateur</string>
+    <string name="welcome_message">Bonjour le monde</string>
+
+    <!-- MainActivity -->
+    <string name="product_barcode">Code barre : %1$s</string>
+    <string name="product_quantity">Quantité : %1$s</string>
+    <string name="product_country">Vendu en : %1$s</string>
+    <string name="product_ingredient">Ingrédients : %1$s</string>
+    <string name="product_alergen">Substances allergènes : %1$s</string>
+    <string name="product_additive">Additifs : %1$s</string>
+</resources>
